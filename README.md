@@ -199,7 +199,7 @@ asyncPath.debugColor = {HEX_NUMBER}
 
 Setting non walkable layer
 ```javascript
-asyncPath.nonWalkableLayer = {string}
+asyncPath.nonWalkableLayer = {array} // ['wall', 'decor']
 ```
 
 
